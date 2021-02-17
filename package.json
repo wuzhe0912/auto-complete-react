@@ -1,0 +1,13 @@
+{
+  "name": "y",
+  "version": "y",
+  "main": "index.js",
+  "repository": "https://github.com/wuzhe0912/tailwind-clone-spotify.git",
+  "author": "pitt.wu <pitt.wu@jh-tech.tw>",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "postcss": "^8.2.6",
+    "tailwindcss": "^2.0.3"
+  }
+}
