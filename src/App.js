@@ -1,7 +1,7 @@
-import './App.css';
+import { AppWrapper } from 'styles/AppStyle';
 
 function App() {
-  return <div className='App'>Auto Complete</div>;
+  return <AppWrapper className='App'>Hello App</AppWrapper>;
 }
 
 export default App;
